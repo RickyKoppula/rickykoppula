@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ricky Koppula
+# Hi 👋, I'm Ricky
 
 A **Data Science graduate** with a passion for unravelling insights from complex data sets. Equipped with skills in statistics, machine learning, and data visualization, I am eager to apply my knowledge in a dynamic tech environment. I am particularly interested in the intersection of **analytics and sports**, aiming to bring insightful contributions to the field. I am passionate about integrating my technical expertise with my love for sports in an innovative role.
 
