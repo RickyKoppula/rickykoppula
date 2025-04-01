@@ -29,7 +29,6 @@ A **Data Science graduate** with a passion for unravelling insights from complex
 ## 📫 Connect with Me
 📧 Email: [rickykoppula@gmail.com](mailto:rickykoppula@gmail.com)
 📍 Location: Hyderabad, India
-📞 Phone: 8331957825
 
 ---
 ⭐️ *Feel free to explore my GitHub and reach out for collaborations!*
