@@ -15,19 +15,18 @@ When I'm not analyzing data, you can find me exploring new trends in technology,
 
 ## 🔧 Tech Stack
 I work with a variety of technologies that help bring data-driven solutions to life. Here’s a peek into my toolkit:
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-light.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark-light.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark-light.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original-light.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-light.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-light.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-light.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark-light.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-light.svg" alt="Django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-light.svg" alt="ReactJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-light.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon.min.css/python/python-original-light.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon.min.css/mysql/mysql-original-wordmark-light.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon.min.css/mongodb/mongodb-original-wordmark-light.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon.min.css/javascript/javascript-original-light.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon.min.css/html5/html5-original-light.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon.min.css/css3/css3-original-light.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon.min.css/tensorflow/tensorflow-original-light.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon.min.css/flask/flask-original-wordmark-light.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon.min.css/django/django-plain-light.svg" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon.min.css/react/react-original-light.svg" alt="ReactJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon.min.css/opencv/opencv-original-light.svg" alt="OpenCV" width="40" height="40"/>
 </p>
 
 ## 🚀 Fun Projects Coming Soon
