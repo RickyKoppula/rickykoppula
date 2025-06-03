@@ -4,9 +4,8 @@ I’m a **Data Science** graduate on a mission to turn raw data into actionable 
 
 When I'm not analyzing data, you can find me exploring new trends in technology, optimizing workflows, or diving deep into sports analytics.
 
-### 🌟 Fun Fact:
-"Man does the work he doesn't want. But in the end, the work defines him."
-
+### 🌟 "Man does the work he doesn't want. But in the end, the work defines him." 
+                                                                                -Unknown
 
 
 ## 📊 GitHub Stats
