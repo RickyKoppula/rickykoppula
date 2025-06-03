@@ -4,8 +4,9 @@ I’m a **Data Science** graduate on a mission to turn raw data into actionable 
 
 When I'm not analyzing data, you can find me exploring new trends in technology, optimizing workflows, or diving deep into sports analytics.
 
-### 🌟 "Man does the work he doesn't want. But in the end, the work defines him." 
-                                                                                -Unknown
+### 🌟 
+"Man does the work he doesn't want. But in the end, the work defines him." 
+                                                                     -Unknown
 
 
 ## 📊 GitHub Stats
@@ -16,17 +17,17 @@ When I'm not analyzing data, you can find me exploring new trends in technology,
 I work with a variety of technologies that help bring data-driven solutions to life. Here’s a peek into my toolkit:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/python/python-original-light.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/mysql/mysql-original-wordmark-light.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/mongodb/mongodb-original-wordmark-light.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/javascript/javascript-original-light.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/html5/html5-original-light.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/css3/css3-original-light.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/tensorflow/tensorflow-original-light.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/flask/flask-original-wordmark-light.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/django/django-plain-light.svg" alt="Django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/react/react-original-light.svg" alt="ReactJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/opencv/opencv-original-light.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
 </p>
 
 
@@ -34,8 +35,6 @@ I work with a variety of technologies that help bring data-driven solutions to l
 I’m currently working on some exciting projects that combine my interests in data science and sports analytics. Stay tuned for updates as I continue to push the boundaries of what’s possible with data.
 
 ## 📫 Let’s Connect
-If you're interested in discussing data science, sports analytics, or potential collaborations, feel free to reach out!
-
 📧 Email: rickykoppula@gmail.com
 🌍 Location: Hyderabad, India
 
